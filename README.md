@@ -66,30 +66,6 @@ VAE and CTGAN (WGAN-GP) implemented from scratch in PyTorch to synthesize mental
 
 ---
 
-### GitHub Stats
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Barath-1B&show_icons=true&hide_border=true&theme=github_dark">
-    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=Barath-1B&show_icons=true&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Barath-1B&layout=compact&hide_border=true&theme=github_dark">
-    <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barath-1B&layout=compact&hide_border=true">
-  </picture>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Barath-1B&hide_border=true&theme=dark">
-  <img alt="GitHub streak" height="165" src="https://streak-stats.demolab.com?user=Barath-1B&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Barath-1B&hide_border=true&theme=github-compact">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Barath-1B&hide_border=true&theme=minimal">
-</picture>
-
----
 
 ### Current Focus
 
@@ -107,7 +83,6 @@ VAE and CTGAN (WGAN-GP) implemented from scratch in PyTorch to synthesize mental
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=Barath-1B&style=flat-square&color=555&label=profile+views)
 
 If something here interests you, my inbox is open.
 
