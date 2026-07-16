@@ -2,18 +2,16 @@
 
 **Software Engineer — AI/ML & Full-Stack**
 
-I build AI-powered healthcare tools and full-stack products — from transformer-based clinical OCR to production mobile apps.
+I build AI-powered healthcare tools and full-stack products from transformer-based clinical OCR to production mobile apps.
 I care about honest evaluation, reproducible research, and shipping systems that hold up under scrutiny.
 
 ---
 
 ### About
 
-- Software engineer focused on applied machine learning for healthcare — handwriting OCR, ECG screening, clinical NLP
+- Software engineer focused on applied machine learning for healthcare => handwriting OCR, ECG screening, clinical NLP
 - Full-stack: FastAPI and Node backends, React and React Native frontends, strict TypeScript throughout
 - Backend systems: authentication, migrations, row-level security, rate limiting, human-in-the-loop workflows
-- Evaluation rigor: leakage-free validation, ablations, significance testing — corrections over inflated claims
-- Comfortable below the framework line: Rust services, Kotlin/Compose, ESP32 firmware
 - Always learning
 
 ---
@@ -62,7 +60,7 @@ React Native app for people managing chronic conditions: search, scan, or photog
 **Synthetic Health Data** — generation and privacy audit
 VAE and CTGAN (WGAN-GP) implemented from scratch in PyTorch to synthesize mental-health survey data, audited for statistical fidelity, downstream utility (TSTR), and privacy.
 `Python` `PyTorch` `VAE` `CTGAN` `scikit-learn` `pandas`
--> Privacy claims backed by actual attacks — DOMIAS membership inference and calibrated distance-to-closest-record — not just distance metrics.
+-> Privacy claims backed by actual attacks — DOMIAS membership inference and calibrated distance-to-closest-record not just distance metrics.
 
 ---
 
@@ -72,7 +70,7 @@ VAE and CTGAN (WGAN-GP) implemented from scratch in PyTorch to synthesize mental
 - AI engineering
 - Clinical NLP and medical document understanding
 - Backend architecture
-- Open source — publishing the featured projects above
+- Open source publishing the featured projects above
 
 ---
 
