@@ -40,7 +40,7 @@ Clinical handwriting OCR that converts handwritten prescriptions into structured
 
 ---
 
-### ECG Arrhythmia Detection
+### ECG Arrhythmia Classifier
 
 Interpretable ECG screening system using signal processing and machine learning with leakage-free validation.
 
