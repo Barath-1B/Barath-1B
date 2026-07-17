@@ -92,7 +92,7 @@ Privacy-preserving synthetic healthcare data generation using VAE and CTGAN, eva
 ## Connect
 
 * LinkedIn → [linkedin.com/in/barath-m-](https://www.linkedin.com/in/barath-m-)
-* Email → [mbarath2400@gmail.com](mailto:barathmohan1304@gmail.com)
+* Email → [barathmohan1304@gmail.com](mailto:barathmohan1304@gmail.com)
 
 ---
 
