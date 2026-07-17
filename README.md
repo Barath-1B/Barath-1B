@@ -72,7 +72,7 @@ Career intelligence platform that recommends learning paths through skill-gap an
 
 ---
 
-### Synthetic Health Data
+### Synthetic Health Data Audit
 
 Privacy-preserving synthetic healthcare data generation using VAE and CTGAN, evaluated for fidelity, utility, and privacy.
 
