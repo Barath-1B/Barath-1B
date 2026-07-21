@@ -82,7 +82,7 @@ Privacy-preserving synthetic healthcare data generation using VAE and CTGAN, eva
 
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%230e75b6" width="20" height="20"/> Connect
 
-* <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230e75b6" width="16" height="16"/> LinkedIn — [linkedin.com/in/barath-m-](https://www.linkedin.com/in/barath-m-)
+* <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230e75b6" width="16" height="16"/> LinkedIn — [linkedin.com/in/barath-1M](https://www.linkedin.com/in/barath-1M)
 * <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%230e75b6" width="16" height="16"/> Email — barathmohan1304@gmail.com
 * <img src="https://api.iconify.design/simple-icons/github.svg?color=%230e75b6" width="16" height="16"/> GitHub — [@Barath-1B](https://github.com/Barath-1B)
 
